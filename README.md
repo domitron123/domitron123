@@ -21,7 +21,7 @@
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domitron123)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domitron123)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 <h2> Current projects </h2>
