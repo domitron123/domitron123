@@ -9,7 +9,7 @@
 <li> <strong> 2024 - 2026: </strong> Degree in computer science attending Victoria university of Wellington </li> 
 </ul>
 
-### Interests 
+<h2> Interests </h2>
 <ul>
 <li> Gaming </li>
 <li> Tabletop games </li>
@@ -20,8 +20,8 @@
 <h2> Languages </h2> 
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123">
 </ul>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&theme=<dark>">
 
 
 <h2> Current projects </h2>
