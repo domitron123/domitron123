@@ -24,5 +24,5 @@
 
 <h2> Current projects </h2>
 <ul>
-<li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> Developing and hosting a minecraft server in collaboration with @bailey-long </li>
+<li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> Developing and hosting a minecraft server in collaboration with <a href="https://github.com/bailey-long"> Bailey Long </a> </li>
 </ul>
