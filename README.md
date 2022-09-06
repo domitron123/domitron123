@@ -4,9 +4,9 @@
 
 <h2> Education plan </h2>
 <ul>
-<li> 2018 - 2022: Currently year 13 - Motueka High School </li>
-<li> 2023 - 2024: New Zealand Certificate in Information Technology - NMIT </li>
-<li> 2024 --->: Degree in computer science - Victoria university of Wellington </li> 
+<li> <strong> 2018 - 2022: </strong> Currently year 13 attending Motueka High School </li>
+<li> <strong> 2023 - 2024: </strong> New Zealand Certificate in Information Technology attending NMIT </li>
+<li> <strong> 2024 - 2026: </strong> Degree in computer science attending Victoria university of Wellington </li> 
 </ul>
 
 <h2> Interests </h2>
