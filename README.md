@@ -29,4 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&show_icons=true&theme=radical">
 
+<h2> Repositories I've Collaborated On </h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=12DGT-Maths-Game)](https://github.com/wzerp/12DGT-Maths-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=Retribution)](https://github.com/wzerp/Retribution)
