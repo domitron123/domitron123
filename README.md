@@ -27,9 +27,9 @@
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&show_icons=true&theme=github_dark">
 
 <h2> Repositories I've Collaborated On </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=12DGT-Maths-Game)](https://github.com/wzerp/12DGT-Maths-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=Retribution)](https://github.com/wzerp/Retribution)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=12DGT-Maths-Game&theme=github_dark)](https://github.com/wzerp/12DGT-Maths-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzerp&repo=Retribution&theme=github_dark)](https://github.com/wzerp/Retribution)
