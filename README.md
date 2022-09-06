@@ -14,7 +14,7 @@
 <li> Gaming </li>
 <li> Tabletop games </li>
 <li> Server hosting </li>
-<li> Gymnastics </li>
+<li> Music </li>
 </ul>
 
 <h2> Current projects </h2>
