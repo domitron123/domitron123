@@ -21,7 +21,7 @@
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domitron123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123"/>
 
 
 <h2> Current projects </h2>
