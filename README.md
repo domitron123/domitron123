@@ -4,7 +4,7 @@
 
 <h2> Education plan </h2>
 <ul>
-<li> <bold> 2018 - 2022: </bold> Currently year 13 attending Motueka High School </li>
+<li> <strong> 2018 - 2022: </strong> Currently year 13 attending Motueka High School </li>
 <li> <strong> 2023 - 2024: </strong> New Zealand Certificate in Information Technology attending NMIT </li>
 <li> <strong> 2024 - 2026: </strong> Degree in computer science attending Victoria university of Wellington </li> 
 </ul>
@@ -21,6 +21,8 @@
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domitron123)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2> Current projects </h2>
 <ul>
