@@ -1,4 +1,4 @@
-<a href="https://www.dtownshend.com"><h1> Dom Townshend </h1></a>
+<a href="https://dtownshend.com"><h1> Dom Townshend </h1></a>
 
 <h2> Motueka - NZ </h2>
 
