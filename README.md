@@ -17,6 +17,11 @@
 <li> Gymnastics </li>
 </ul>
 
+<h2> Current projects </h2>
+<ul>
+<li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> - Developing and hosting a minecraft server in collaboration with <a href="https://github.com/bailey-long"> Bailey Long </a> </li>
+</ul>
+
 <h2> Languages </h2> 
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
@@ -24,7 +29,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&show_icons=true&theme=radical">
 
-<h2> Current projects </h2>
-<ul>
-<li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> - Developing and hosting a minecraft server in collaboration with <a href="https://github.com/bailey-long"> Bailey Long </a> </li>
-</ul>
+
