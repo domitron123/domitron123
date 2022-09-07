@@ -27,7 +27,7 @@
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&theme=github_dark&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=domitron123&theme=github_dark&count_private=true&show_icons=true">
 
 <h2> Repositories I've Collaborated On </h2>
 
