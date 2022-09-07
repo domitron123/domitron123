@@ -27,7 +27,7 @@
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domitron123&theme=github_dark)](https://dtownshend.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domitron123&theme=github_dark&layout=compact)](https://dtownshend.com)
 
 <h2> Repositories I've Collaborated On </h2>
 
