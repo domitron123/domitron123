@@ -27,7 +27,7 @@
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domitron123&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domitron123)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Repositories I've Collaborated On </h2>
 
