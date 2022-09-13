@@ -23,6 +23,8 @@
 </ul>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=mcskyscape-website&theme=github_dark)](https://github.com/domitron123/mcskyscape-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=PasswordGenerator&theme=github_dark)](https://github.com/domitron123/PasswordGenerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=dtownshend.com&theme=github_dark)](https://github.com/domitron123/dtownshend.com)
 
 <h2> 🌐 Languages </h2> 
 <ul>
