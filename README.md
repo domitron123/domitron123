@@ -21,6 +21,7 @@
 <ul>
 <li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> - Developing and hosting a minecraft server in collaboration with <a href="https://github.com/bailey-long"> Bailey Long </a> </li>
 </ul>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=mcskyscape.com-Maths-Game&theme=github_dark)](https://github.com/wzerp/12DGT-Maths-Game)
 
 <h2> 🌐 Languages </h2> 
 <ul>
