@@ -18,9 +18,6 @@
 </ul>
 
 <h2> 🗒️ Current projects </h2>
-<ul>
-<li> <a href="mcskyscape.com"> <strong> mcsckyscape </strong> </a> - Developing and hosting a minecraft server in collaboration with <a href="https://github.com/bailey-long"> Bailey Long </a> </li>
-</ul>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=mcskyscape-website&theme=github_dark)](https://github.com/domitron123/mcskyscape-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=PasswordGenerator&theme=github_dark)](https://github.com/domitron123/PasswordGenerator)
