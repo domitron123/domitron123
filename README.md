@@ -19,18 +19,18 @@
 
 <h2> 🗒️ Current projects </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=mcskyscape-website&theme=github_dark)](https://github.com/domitron123/mcskyscape-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=PasswordGenerator&theme=github_dark)](https://github.com/domitron123/PasswordGenerator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domitron123&repo=dtownshend.com&theme=github_dark)](https://github.com/domitron123/dtownshend.com)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=mcskyscape-website&theme=github_dark)](https://github.com/domitron123/mcskyscape-website)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=PasswordGenerator&theme=github_dark)](https://github.com/domitron123/PasswordGenerator)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=dtownshend.com&theme=github_dark)](https://github.com/domitron123/dtownshend.com)
 
 <h2> 🌐 Languages </h2> 
 <ul>
 <li> C#, Python, HTML, CSS, (very little java and javascript)</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domitron123&theme=github_dark&layout=compact)](https://dtownshend.com)
+[![Top Langs](https://gh-stats.wzernikow.com/api/top-langs/?username=domitron123&theme=github_dark&layout=compact)](https://dtownshend.com)
 
 <h2> 🏘️ Repositories I've collaborated on </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzern&repo=12DGT-Maths-Game&theme=github_dark)](https://github.com/wzern/12DGT-Maths-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzern&repo=Retribution&theme=github_dark)](https://github.com/wzern/Retribution)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=wzern&repo=12DGT-Maths-Game&theme=github_dark)](https://github.com/wzern/12DGT-Maths-Game)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=wzern&repo=Retribution&theme=github_dark)](https://github.com/wzern/Retribution)
