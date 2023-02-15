@@ -4,7 +4,7 @@
 
 <h2> 🎓 Education plan </h2>
 <ul>
-<li> <strong> 2018 - 2022: </strong> Currently year 13 attending Motueka High School </li>
+<li> <strong> 2018 - 2022: </strong> Motueka High school grauate </li>
 <li> <strong> 2023: </strong> New Zealand Diploma in Information Technology Technical Support attending NMIT </li>
 </ul>
 
