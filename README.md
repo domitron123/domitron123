@@ -4,8 +4,8 @@
 
 <h2> 🎓 Education plan </h2>
 <ul>
-<li> <strong> 2018 - 2022: </strong> Motueka High school grauate </li>
-<li> <strong> 2023: </strong> New Zealand Diploma in Information Technology Technical Support attending NMIT </li>
+<li> <strong> 2018 - 2022: </strong> Motueka High school graduate - NCEA lvl 1 - 3 UE</li>
+<li> <strong> 2023: </strong> New Zealand Diploma in Information Technology Technical Support - attending NMIT </li>
 </ul>
 
 <h2> Interests </h2>
@@ -24,7 +24,7 @@
 
 <h2> 🌐 Languages </h2> 
 <ul>
-<li> C#, Python, HTML, CSS, (very little java and javascript)</li>
+<li> Currently learning Javascript</li>
 </ul>
 
 [![Top Langs](https://gh-stats.wzernikow.com/api/top-langs/?username=domitron123&theme=github_dark&layout=compact)](https://dtownshend.com)
