@@ -5,14 +5,14 @@
 <h2> 🎓 Education plan </h2>
 <ul>
 <li> <strong> 2018 - 2022: </strong> Motueka High school graduate - NCEA lvl 1 - 3 UE</li>
-<li> <strong> 2023: </strong> New Zealand Diploma in Information Technology Technical Support - attending NMIT </li>
+<li> <strong> 2023: </strong> New Zealand BiT in Information Technology Technical Support - attending NMIT </li>
 </ul>
 
 <h2> Interests </h2>
 <ul>
-<li> 🎮 Gaming </li>
-<li> 🃏 Tabletop games </li>
-<li> 💽 Server hosting </li>
+<li> Ballin </li>
+<li> Jammin board games </li>
+<li> 💽 Networking </li>
 <li> 🎶 Music </li>
 </ul>
 
