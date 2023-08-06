@@ -18,8 +18,8 @@
 
 <h2> 🗒️ Current projects </h2>
 
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=mcskyscape-website&theme=github_dark)](https://github.com/domitron123/Assessment-one-WEB504)
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=PasswordGenerator&theme=github_dark)](https://github.com/domitron123/Personal-Site-Self-hosted)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=Assessment-one-WEB504&theme=github_dark)](https://github.com/domitron123/Assessment-one-WEB504)
+[![Readme Card](https://gh-stats.wzernikow.com/api/pin/?username=domitron123&repo=Personal-Site-Self-hosted&theme=github_dark)](https://github.com/domitron123/Personal-Site-Self-hosted)
 
 <h2> 🌐 Languages </h2> 
 <ul>
