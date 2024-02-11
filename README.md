@@ -5,7 +5,8 @@
 <h2> 🎓 Education plan </h2>
 <ul>
 <li> <strong> 2018 - 2022: </strong> Motueka High school graduate - NCEA lvl 1 - 3 UE</li>
-<li> <strong> 2023 - 2026: </strong> New Zealand BiT in Information Technology Technical Support - attending NMIT </li>
+<li> <strong> 2023 - 2024: </strong> NMIT Certificat in IT</li>
+<li> <strong> 2024 - 2027: </strong> Univeristy of Caterbury studying Computer Science </li>
 </ul>
 
 <h2> Interests </h2>
