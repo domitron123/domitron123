@@ -7,6 +7,7 @@
 <li> <strong> 2018 - 2022: </strong> Motueka High school graduate - NCEA lvl 1 - 3 UE</li>
 <li> <strong> 2023 - 2024: </strong> NMIT Certificate in IT</li>
 <li> <strong> 2024 - 2027: </strong> Univeristy of Caterbury studying Computer Science </li>
+<b> NONE OF THIS HAPPENED IM AT A FARM NOW BRUH FML </b>
 </ul>
 
 <h2> Interests </h2>
